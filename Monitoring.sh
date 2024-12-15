@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"today is victory day 16th december"
+echo "today is victory day 16th december"
